@@ -8,7 +8,9 @@
     "buildsubfolder": "parcel build index.html --public-url ./",
     "build": "parcel build index.html"
   },
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  },
   "devDependencies": {
     "@babel/core": "7.2.0",
     "parcel-bundler": "^1.6.1",

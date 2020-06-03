@@ -12,3 +12,23 @@ h1{
     color: $color1;
 
 }
+
+li{
+    list-style: none;
+}
+
+.MenuRight-nav_ul {
+    display: flex;
+    color: $color2;
+    justify-content: flex-end;
+
+}
+
+.MenuRight-nav_li{
+    padding: $paddingMenu-Desktop;
+}
+
+body .container{
+    width: $widhtDesktop;
+    margin: 0 auto;
+}
