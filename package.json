@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "start": "parcel index.html --open",
+    "start": "parcel index.html --open --no-cache",
     "buildsubfolder": "parcel build index.html --public-url ./",
     "build": "parcel build index.html"
   },
