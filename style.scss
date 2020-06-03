@@ -1,0 +1,14 @@
+@import 'scss/header';
+@import 'scss/variables';
+
+header{
+    width: 100%;
+    padding: 15px;
+    background-color: $color;
+}
+
+h1{
+    text-align: center;
+    color: $color1;
+
+}
